@@ -39,4 +39,5 @@ const Pokedex = (props) => {
   )
 }
 
+
 export default Pokedex

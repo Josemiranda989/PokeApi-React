@@ -23,3 +23,4 @@ export const getPokemonData = async (url) => {
     return data;
   } catch (err) {}
 };
+

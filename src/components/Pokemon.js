@@ -48,4 +48,5 @@ const Pokemon = (props) => {
     </div>
   )
 }
+
 export default Pokemon
